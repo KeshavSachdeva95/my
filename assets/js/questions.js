@@ -1,8 +1,8 @@
 var questions = [
     {
-        title: "Commonly used data types DO NOT include:",
-        choices: ["strings", "booleans", "alerts", "numbers"],
-        answer: "alerts"
+        title: "Sustainable development has ___ main pillars",
+        choices: ["1", "6", "17", "4"],
+        answer: "4"
     },
     {
         title: "The condition in an if / else statement is enclosed within ____.",
